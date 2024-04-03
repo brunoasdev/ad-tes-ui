@@ -1,3 +1,4 @@
+import { Projeto } from '@/types';
 import React, { ReactNode } from 'react';
 import {
     Page,
@@ -58,5 +59,6 @@ export type {
     AppMailSidebarItem,
     AppMailReplyProps,
     AppMailProps,
-    AppMenuItem
+    AppMenuItem,
+    Projeto
 };
